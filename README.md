@@ -24,6 +24,9 @@ An intelligent recruitment automation system built using LangGraph, LangChain, a
 
 Application → Experience Classification → Skill Assessment → HR Interview / Recruiter Escalation / Rejection
 
+## workflow image 
+![Workflow Diagram](workflow.png)
+
 ## How to Run
 
 1. Install dependencies:
